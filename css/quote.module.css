@@ -1,0 +1,25 @@
+.quote {
+    color: #FFF;
+    font-size: 32px;
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+}
+
+.quote-sign {
+    position: absolute;
+    width: 100px;
+    top: -50px;
+    left: -90px;
+}
+
+.author {
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
+    font-weight: bold;
+    font-size: 27px;
+    background: -webkit-gradient(linear, left top, right bottom, from(#FF4D4D), to(#F9CB28));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

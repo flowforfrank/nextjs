@@ -1,0 +1,19 @@
+.input-container {
+    text-align: center;
+}
+
+.input {
+    cursor: pointer;
+    background: transparent;
+    font-size: 21px;
+    letter-spacing: 1px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 1px solid #888;
+    text-decoration: none;
+    color: #FFF;
+}
+
+.input:hover {
+    background: #222;
+}

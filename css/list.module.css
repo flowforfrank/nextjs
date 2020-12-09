@@ -1,0 +1,15 @@
+.quote-wrapper {
+    position: relative;
+    margin-bottom: 200px;
+}
+
+.quote-number {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 75px;
+    transform: translate(-50%, -50%);
+    opacity: .12;
+}
